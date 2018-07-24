@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Projects/TestMethods2July2018/TestMethods2July2018/bin/Debug/TestMethods2July2018.exe
+/Users/samanthamazzola/Projects/TestMethods2July2018/TestMethods2July2018/bin/Debug/TestMethods2July2018.pdb
+/Users/samanthamazzola/Projects/TestMethods2July2018/TestMethods2July2018/obj/x86/Debug/TestMethods2July2018.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Projects/TestMethods2July2018/TestMethods2July2018/obj/x86/Debug/TestMethods2July2018.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Projects/TestMethods2July2018/TestMethods2July2018/obj/x86/Debug/TestMethods2July2018.exe
+/Users/samanthamazzola/Projects/TestMethods2July2018/TestMethods2July2018/obj/x86/Debug/TestMethods2July2018.pdb
